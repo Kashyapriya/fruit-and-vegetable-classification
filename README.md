@@ -26,3 +26,7 @@ Evaluation metrics such as accuracy, precision, recall, and F1-score are logged 
 ## Output Image
 
 ![WhatsApp Image 2024-04-28 at 2 21 41 AM](https://github.com/Kashyapriya/Tic-tac-toe/assets/95755693/51447a61-9f3b-4bdd-8f2b-52bf155052af)
+
+![WhatsApp Image 2024-04-28 at 2 25 42 AM](https://github.com/Kashyapriya/Tic-tac-toe/assets/95755693/166164d4-084d-4453-8784-c63d785854e1)
+
+![WhatsApp Image 2024-04-28 at 2 25 42 AM (1)](https://github.com/Kashyapriya/Tic-tac-toe/assets/95755693/521e281e-1a36-46fc-8522-633ba6f70438)
